@@ -1,5 +1,7 @@
 # Sombrero
 
+> This repository has been archived. It serves as a place to preserve my original A-Level Computer Science Project, Sombrero, as it was when I completed it. Any future changes to this project will be made in a separate repository.
+
 Sombrero is my A-Level Computer Science project (AQA), focused on simulating the three-dimensional N-Body Problem. Basic documentation can be found at [alevel-sombrero.readme.io](https://alevel-sombrero.readme.io), and reference for the Simulation class can be found in the Reference section of that site.
 
 <p align="center">
